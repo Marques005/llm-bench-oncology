@@ -1,0 +1,7 @@
+model,mode,accuracy,latency_s,invalid,erros
+Qwen2.5-0.5B-Instruct,com_contexto,0.15,8.405,0,0
+Qwen2.5-0.5B-Instruct,sem_contexto,0.15,1.804,0,0
+gpt-oss-120b,com_contexto,0.53,0.411,0,0
+gpt-oss-120b,sem_contexto,0.16,0.38,0,0
+gpt-oss-20b,com_contexto,0.66,0.385,0,0
+gpt-oss-20b,sem_contexto,0.34,0.418,0,0
